@@ -1,0 +1,258 @@
+ Brand,Model,Ex-Showroom_Price(Rs.),Cylinders,Emission_Norm(BS),Fuel Capacity,Fuel_Type,Body_Type,ARAI Certified Mileage,Seating_Capacity,Type,Wheelbase,Boot_Space
+ Rover Rover,Autobiography,40499548,8,4,65,Petrol,SUV,10,5,Automatic,2922,909
+Aston Martin,Db 11,40456503,12,4,80,Petrol,Coupe,11,2,Automatic,2600,300
+Aston Martin,Rapide,38845823,12,4,90.5,Petrol,Sedan,12.9,4,Automatic,2989,300
+Aston Martin,Vantage,29500000,8,4,73,Petrol,Coupe,8,2,Automatic,2704,420
+Audi,Q5,5621200,6,4,70,Petrol,SUV,12.44,5,Automatic,2807,550
+Audi,A5,6061200,4,4,45,Diesel,Sedan,19.2,5,Automatic,2807,54
+Audi,A5 Cabriolet,6948200,4,4,58,Diesel,Convertible,17.2,4,Automatic,2807,480
+Audi,Rs7,17072000,8,4,75,Petrol,Sedan Coupe,9.8,4,Automatic,2915,535
+Audi,R8,27245000,10,4,75,Petrol,Coupe,6.71,2,Automatic,2650,420
+Audi,Q3,4361000,4,4,64,Diesel,SUV,15.73,5,Automatic,2603,460
+Audi,A6,5942200,4,6,73,Petrol,Sedan,14.11,5,Automatic,2912,560
+Audi,Q7,8111500,6,4,75,Diesel,SUV,14.75,7,Automatic,2994,295
+Audi,S5,7243000,6,4,58,Petrol,Sedan,13.57,5,Automatic,2811,420
+Audi,Rs5,11141200,8,4,58,Petrol,Coupe,10.8,4,Automatic,2480,465
+Audi,Q8,13359500,4,6,85,Petrol,SUV,11,7,Automatic,2994,605
+Audi,A8 L,15600000,8,6,82,Petrol,Sedan,11,4,Automatic,3128,505
+Audi,A4,4507000,4,4,54,Petrol,Sedan,17.9,5,DCT,2820,480
+Audi,A3 Cabriolet,5038000,4,4,50,Petrol,Convertible,19.2,4,Automatic,2595,320
+Audi,A3,3221200,4,4,50,Diesel,Sedan,20.38,5,Automatic,2637,425
+Bajaj,Qute (Re60),283000,3,4,45,CNG,Hatchback,11,4,Manual,1925,20
+Bentley,Continental Gt,33791059,12,4,90,Petrol,Coupe,8.6,4,Automatic,2746,358
+Bentley,Bentayga,45941557,12,4,85,Petrol,SUV,19,5,Automatic,2992,430
+Bentley,Mulsanne,52571294,8,4,90,Petrol,Sedan,9.5,4,Automatic,3266,443
+Bentley,Flying Spur,39382083,12,4,90,Petrol,Sedan,4,4,Automatic,3066,475
+Bmw,X1,4570000,4,4,51,Diesel,SUV Crossover,20.68,5,Automatic,2670,420
+Bmw,3-Series,4790000,4,6,59,Petrol,Sedan,16.13,5,Automatic,2810,480
+Bmw,5-Series,6680000,6,4,70,Diesel,Sedan,14.69,5,Automatic,2968,520
+Bmw,6-Series,7450000,6,4,88,Diesel,Sedan,16.46,4,Automatic,3210,420
+Bmw,X7,10490000,6,6,80,Petrol,SUV,13.38,7,Automatic,3105,326
+Bmw,M4,13590000,6,4,60,Petrol,Coupe,10.75,4,Automatic,2812,368
+Bmw,M5,15490000,8,6,68,Petrol,Sedan,9.8,4,Automatic,2964,530
+Bmw,Z4 Roadster,7890000,6,6,52,Petrol,Sports Convertible,7.6,2,Automatic,2470,281
+Bmw,7-Series,24250000,12,6,78,Petrol,Sedan,7.96,4,Automatic,3110,500
+Bmw,X3,5930000,4,4,67,Diesel,SUV,18.56,5,Automatic,2810,550
+Bmw,M2 Competition,8180000,6,6,52,Petrol,Coupe,9.8-10.0  ,4,Automatic,2693,460
+Bmw,X4,6590000,6,6,68,Diesel,SUV,16.4,5,Automatic,2864,1400
+Bmw,X5,8290000,6,4,50,Petrol,SUV,11.24,5,Automatic,2575,650
+Bugatti,Chiron,212155397,16,6,45,Petrol,Sports,5.95,2,Automatic,2710,420
+Datsun,Redi-Go,279650,3,4,28,Petrol,Hatchback,25.17,5,Manual,2348,222
+Datsun,Go,374990,3,4,35,Petrol,Hatchback,20.1,5,Manual,2450,265
+Datsun,Go,468229,3,4,35,Petrol,Hatchback,20.1,5,Manual,2450,265
+Datsun,Go+,412292,3,4,35,Petrol,MPV,20.6,7,Manual,2450,347
+Dc,Avanti,3407407,4,4,60,Petrol,Coupe,10,2,Manual,2700,420
+Ferrari,Portofino,35000000,8,4,92,Petrol,Convertible,9,2,Automatic,2669,240
+Ferrari,458 Speciale,42531500,8,4,86,Petrol,Coupe,9,2,Automatic,2650,230
+Ferrari,488 Gtb,36761413,8,4,78,Petrol,Coupe,5.5,2,Automatic,2650,230
+Ferrari,Gtc4 Lusso,52000000,8,4,91,Petrol,Coupe,5.5,4,Automatic,2990,450
+Ferrari,458 Spider,43367500,8,4,86,Petrol,Coupe Convertible,5.5,2,Automatic,2650,230
+Ferrari,812 Superfast,52000000,12,4,92,Petrol,Coupe,14.9,2,Automatic,2720,650
+Fiat,Urban Cross,977516,4,4,45,Petrol,Crossover,17.1,5,Manual,2510,420
+Fiat,Avventura,876341,4,4,45,Diesel,Crossover,20.5,5,Manual,2510,280
+Fiat,Abarth Avventura,989219,4,4,45,Petrol,Crossover,17.1,5,Manual,2510,420
+Fiat,Linea,715860,4,4,45,Petrol,Sedan,15.7,5,Manual,2603,500
+Fiat,Punto Evo Pure,575947,4,4,45,Diesel,Hatchback,20,5,Manual,2510,280
+Fiat,Linea Classic,751203,4,4,45,Diesel,Sedan,19.5,5,Manual,2603,500
+Fiat,Abarth Punto,980970,4,4,55,Petrol,Hatchback,16.3,5,Manual,2510,420
+Fiat,Punto Evo,535562,4,4,45,Petrol,Hatchback,15.7,5,Manual,2510,280
+Force,Gurkha,1225000,4,4,63,Diesel,SUV,17,5,Manual,2400,420
+Ford,Freestyle,676400,4,4,40,Diesel,Crossover,24.4,5,Manual,2490,257
+Ford,Aspire,598500,4,4,42,Petrol,Sedan,20.4,5,Manual,2490,420
+Ford,Ecosport,871000,3,6,52,Petrol,SUV,17,5,Manual,2519,352
+Ford,Endeavour,3233000,4,4,80,Diesel,SUV,12.62,7,Automatic,2850,430
+Ford,Mustang,7462000,8,4,60.9,Petrol,Sedan Coupe,13,4,Automatic,2720,420
+Ford,Figo,523000,4,4,42,Petrol,Hatchback,20.4,5,Manual,2490,420
+Honda,Jazz,909000,4,4,40,Petrol,Hatchback,19,5,Automatic,2530,354
+Honda,Brv,1052900,4,4,42,Petrol,SUV,15.4,7,Manual,2662,223
+Honda,Civic,1944900,4,6,47,Petrol,Sedan,16.5,5,Automatic,2700,430
+Honda,A ord Hybrid,4321237,4,4,60,Hybrid,Sedan,23.1,5,Automatic,2776,400
+Honda,Amaze,705000,4,6,35,Diesel,Sedan,27.4,5,Manual,2470,420
+Honda,Wr-V,1035000,3,4,40,Diesel,SUV,25.5,5,Manual,2555,363
+Honda,Cr-V,2827001,4,6,57,Petrol,SUV,14.4,5,Automatic,2660,522
+Honda,City,991000,4,6,40,Petrol,Sedan,17.4,5,Manual,2600,510
+Hyundai,Santro,503990,4,4,35,Petrol,Hatchback,20.3,5,Manual,2400,420
+Hyundai,Xcent Prime,536859,4,4,43,Petrol,Sedan,15.7,5,Manual,2425,407
+Hyundai,Elite I20,934003,4,4,45,Diesel,Hatchback,22.54,5,Manual,2570,285
+Hyundai,Aura,705800,3,6,37,Petrol,Sedan,20.1,5,Automatic,2450,420
+Hyundai,Verna,1172999,4,4,45,Petrol,Sedan,17.7,5,Manual,2600,465
+Hyundai,Grand I10 Prime,477511,4,4,43,Petrol,Hatchback,19.77,5,Manual,2425,256
+Hyundai,Venue,959000,4,4,45,Petrol,SUV,18.27,5,Manual,2500,350
+Hyundai,Elantra,1849000,4,6,50,Petrol,Sedan,14.6,5,Manual,2700,420
+Hyundai,Tucson,2187384,4,4,62,Petrol,SUV,12.95,5,Automatic,2670,420
+Hyundai,Grand I10,653452,4,4,43,CNG,Hatchback,19.77,5,Manual,2425,256
+Hyundai,Creta,1414247,4,4,55,Diesel,SUV,19.67,5,Manual,2590,400
+Hyundai,Grand I10 Nios,804450,3,6,37,Diesel,Hatchback,20.7,5,Manual,2450,256
+Hyundai,Kona Electric,2371858,3,4,45,Electric,SUV,11,4,Automatic,2600,420
+Icml,Extreme,835275,4,3,50,Diesel,SUV,11.12,9,Manual,2541,420
+Isuzu,Mu-X,2931534,4,4,76,Diesel,SUV,13.8,7,Automatic,2845,420
+Isuzu,Dmax V-Cross,1999000,4,4,50,Diesel,Pick-up,10.3,5,Automatic,3095,265
+Jaguar,F-Pace,6422809,4,4,60,Petrol,SUV,21.27,5,Automatic,2874,650
+Jaguar,F-Type,23659454,3,4,45,Petrol,Convertible,11,2,Automatic,2622,420
+Jaguar,Xj,11129599,6,4,82,Diesel,Sedan,12.9,5,Automatic,3157,478
+Jaguar,Xf,5436329,4,4,74,Petrol,Sedan,13.12,5,Automatic,2960,505
+Jaguar,Xe,4498000,4,6,61,Petrol,Sedan,11,5,Automatic,2835,455
+Jeep,Compass,2196000,6,6,60,Diesel,SUV,17.1,5,Automatic,2636,420
+Jeep,Wrangler,6394000,4,6,85,Petrol,SUV,8.4,5,Automatic,3008,420
+Jeep,Compass Trailhawk,2680000,4,6,60,Diesel,SUV,16.3,5,Automatic,2636,438
+Jeep,Grand Cherokee,7515000,6,4,93.5,Petrol,SUV,8.61,5,Automatic,2915,1025
+Kia,Carnival,3395000,4,6,45,Diesel,MUV,11,7,Automatic,3060,540
+Kia,Seltos,1414000,3,6,60,Diesel,SUV,20,5,Manual,2610,433
+Lamborghini,Urus,30000000,8,4,75,Petrol,SUV,7.8,5,Automatic,3003,616
+Lamborghini,Huracan,32200000,10,6,90,Petrol,Coupe,10.6,2,Automatic,2620,70
+Lamborghini,Aventador,47467700,12,4,90,Petrol,Coupe,5,2,Automatic,2700,110
+Land Rover,Discovery,10205494,6,4,85,Diesel,SUV,18,7,Automatic,2922,258
+Land Rover,Discovery Sport,6089000,4,6,70,Diesel,SUV,11,7,Automatic,2741,420
+Land Rover Rover,Range Evoque,5985000,4,6,45,Petrol,SUV,11,5,Automatic,2681,420
+Land Rover Rover,Range Velar,7246802,4,4,65,Petrol,SUV,12.63,5,Automatic,2874,420
+Lexus,Es,5695000,4,4,45,Hybrid,Sedan,17.8,5,Automatic,2870,420
+Lexus,Nx 300H,6060000,6,4,56,Petrol,SUV,18.3,5,Automatic,2660,475
+Lexus,Lc 500H,19600000,6,4,82,Hybrid,Coupe,11,4,Automatic,2870,133
+Lexus,Lx 450D,23290000,3,4,93,Diesel,SUV,18,7,Automatic,2850,420
+Lexus,Ls 500H,19371000,6,4,82,Hybrid,SUV,15.4,5,Automatic,3125,430
+Lexus,Lx 570,23290000,3,4,93,Diesel,SUV,18,7,Automatic,2850,420
+Lexus,Rx 450H,9900000,6,4,65,Petrol,SUV,18,5,Automatic,2790,420
+Mahindra,Verito Vibe,750428,4,4,50,Diesel,Hatchback,20.08,5,Manual,2630,330
+Mahindra,Bolero Power Plus,819117,4,3,60,Diesel,SUV,15.96,9,Manual,2794,420
+Mahindra,Xuv300,999000,4,6,42,Diesel,SUV,20,5,AMT,2600,259
+Mahindra,Thar,974860,4,4,60,Diesel,SUV,13,6,Manual,2430,600
+Mahindra,Tuv300 Plus,992748,3,4,60,Diesel,SUV,18.49,9,Manual,2680,384
+Mahindra,Marazzo,1156471,4,4,45,Diesel,MPV,17.3,7,Manual,2760,420
+Mahindra,Scorpio,1330006,4,4,60,Diesel,SUV,15.4,9,Manual,2680,420
+Mahindra,Xuv500,1610180,4,4,70,Petrol,SUV,13.85,7,Automatic,2700,96
+Mahindra,E Verito,1293214,3,4,45,Electric,Sedan,11,5,Automatic,2630,510
+Mahindra,Kuv100 Nxt,631144,3,4,35,Petrol,Hatchback,18.15,6,Manual,2385,243
+Mahindra,Tuv300,1055259,3,4,60,Diesel,SUV,18.49,7,Manual,2680,384
+Mahindra,Xylo,963037,4,4,55,Diesel,SUV,13.9,7,Manual,2760,400
+Mahindra,Bolero,942263,4,4,60,Diesel,SUV,15.96,7,Manual,2680,1702
+Mahindra,Verito,845154,4,4,50,Diesel,Sedan,21,5,Manual,2630,330
+Mahindra,Alturas G4,3070150,4,4,70,Diesel,SUV,12.05,7,Automatic,2865,680
+Maruti Suzuki,Eeco,425255,4,6,40,CNG,MPV,20,5,Manual,2350,400
+Maruti Suzuki,Alto K10,438559,3,4,35,Petrol,Hatchback,24.07,5,Automatic,2360,177
+Maruti Suzuki,Celerio Tour,480670,3,4,60,CNG,Hatchback,31.76,5,Manual,2425,235
+Maruti Suzuki,Celerio X,552350,3,4,35,Petrol,Hatchback,23.1,5,Automatic,2425,235
+Maruti Suzuki,Ignis,713898,4,4,32,Petrol,Hatchback,20.89,5,AMT,2435,260
+Maruti Suzuki,Dzire Tour,653523,4,4,42,Diesel,Sedan,28.4,5,Manual,2430,320
+Maruti Suzuki,Dzire,952622,4,4,37,Diesel,Sedan,28.4,5,Automatic,2450,378
+Maruti Suzuki,Vitara Brezza,1059742,4,4,48,Diesel,SUV,24.3,5,Automatic,2500,328
+Maruti Suzuki,Xl6,1151189,4,6,45,Petrol,MPV,17.01,6,Automatic,2740,209
+Maruti Suzuki,Alto,389600,3,6,35,Petrol,Hatchback,22.05,5,Manual,2360,420
+Maruti Suzuki,S-Presso,499000,3,6,27,Petrol,Hatchback,21.7,5,AMT,2380,420
+Maruti Suzuki,Celerio,543279,3,6,35,Petrol,Hatchback,23.1,5,Automatic,2425,235
+Maruti Suzuki,Swift,758000,4,6,37,Petrol,Hatchback,20.4,5,Manual,2450,268
+Maruti Suzuki,Gypsy,637343,4,3,40,Petrol,SUV,11.9,8,Manual,2375,350
+Maruti Suzuki,Ertiga,887689,4,6,45,CNG + Petrol,MUV,19.34,7,Manual,2740,350
+Maruti Suzuki,Baleno Rs,788913,3,4,37,Petrol,Hatchback,21.4,5,Manual,2520,339
+Maruti Suzuki,S-Cross,1143689,4,4,48,Diesel,Crossover,23.65,5,Manual,2600,375
+Maruti Suzuki,Omni,284485,3,4,36,Petrol,MPV,16.8,8,Manual,1840,525
+Maruti Suzuki,Baleno,829912,4,6,37,Petrol,Hatchback,21.04,5,Automatic,2520,339
+Maruti Suzuki,Ciaz,1102689,4,4,43,Diesel,Sedan,28.09,5,Manual,2650,510
+Maruti Suzuki,Alto 800 Tour,356559,3,4,35,Petrol,Hatchback,24.7,5,Manual,2360,177
+Maruti Suzuki R,Wagon,507500,3,4,32,CNG,Hatchback,33.54,5,Manual,2480,341
+Maserati,Ghibli,14247814,3,4,70,Diesel,SUV,11,5,Automatic,2998,500
+Maserati,Levante,15383399,6,4,80,Diesel,SUV,7.9,4,Automatic,3004,580
+Maserati,Quattroporte,17900000,6,6,70,Diesel,Sports,7.9,4,Automatic,3171,530
+Maserati,Grancabrio,19865675,8,4,75,Petrol,Convertible,9.8,4,Automatic,2942,173
+Maserati,Granturismo,17229579,8,4,86,Petrol,Coupe,10,4,Automatic,2942,261
+Mercedes-Benz, A-Class,2886871,4,4,50,Diesel,Hatchback,15.5,5,Automatic,2699,341
+Mercedes-Benz, Gla-Class,8067000,4,4,50,Petrol,SUV,13.8,5,Automatic,2699,421
+Mercedes-Benz, C-Class,4654000,4,6,66,Petrol,Sedan,12.06,5,Automatic,2840,480
+Mercedes-Benz,Glc,5775000,4,6,50,Diesel,SUV,18.18,5,Automatic,2873,580
+Mercedes-Benz, E-Class,6250000,6,4,80,Diesel,Sedan,142,5,Automatic,3079,540
+Mercedes-Benz, Gle,12500000,6,6,93,Diesel,SUV,11,5,Automatic,2915,825
+Mercedes-Benz, E-Class All Terrain,7500000,6,6,80,Diesel,SUV,12.06,5,Automatic,3079,540
+Mercedes-Benz, Cls,8470000,4,6,45,Diesel,Sedan,11,5,Automatic,2480,420
+Mercedes-Benz, Maybach,19890000,8,4,80,Petrol,Sedan,7.8,4,Automatic,3165,530
+Mercedes-Benz, S-Class Cabriolet,23491293,8,4,80,Petrol,Convertible,7.8,4,Automatic,2945,530
+Mercedes-Benz, B-Class,3303282,4,4,50,Diesel,MPV,15,5,Automatic,2699,488
+Mercedes-Benz,z E-Class Cabriolet,7711338,6,4,80,Petrol,Convertible,10,4,Automatic,2760,540
+Mercedes-Benz,Amg-Gt,21583466,8,4,75,Petrol,Coupe,7.8,2,Automatic,2630,350
+Mercedes-Benz, Amg Gt 4-Door Coupe,24200000,8,6,65,Petrol,Coupe,11,4,Automatic,2951,420
+Mercedes-Benz, Cla-Class,3599000,4,4,56,Petrol,Sedan,15.04,5,Automatic,2699,470
+Mercedes-Benz, C-Class Cabriolet,6426497,4,6,60,Petrol,Convertible,14.5,4,Automatic,2840,420
+Mercedes-Benz, Gls,8820000,6,4,100,Diesel,SUV,11.6,5,Automatic,3075,420
+Mercedes-Benz, G-Class,15000000,6,6,100,Diesel,SUV,SUV,7,Automatic,2890,420
+Mercedes-Benz ,V-Class,6840000,4,6,93,Diesel,MUV,11,7,Automatic,3430,420
+Mercedes-Benz ,S-Class,13558438,6,4,90,Diesel,Sedan,13.5,5,Automatic,3035,530
+Mg,Zs Ev,2358000,3,6,45,Electric,SUV,11,5,Automatic,2585,448
+Mg,Hector,1248000,4,4,45,Petrol,SUV,14.16,5,Manual,2750,420
+Mini,Cooper 3 Door,3420000,4,4,44,Petrol,Hatchback,15.75,5,Automatic,2480,211
+Mini,Countryman,4240000,4,4,47,Petrol,Hatchback,14.41,5,Automatic,2670,350
+Mini,Convertible,3830000,4,4,44,Petrol,Convertible,14.59,4,Automatic,2650,215
+Mini,Clubman,4120000,4,4,45,Petrol,Hatchback,13.8,5,Manual,2670,360
+Mini,John Cooper Works,4350000,4,6,44,Petrol,Sports Hatchback,16.47,2,Automatic,2495,455
+Mini,Cooper 5 Door,3600000,3,4,44,Petrol,Hatchback,21.15,5,Automatic,2480,278
+Mitsubishi,Outlander,2693000,4,6,60,Petrol,SUV,9.62,7,Automatic,2670,718
+Mitsubishi,Pajero Sport,2952500,4,4,70,Diesel,SUV,10.77,7,Automatic,2800,420
+Mitsubishi,Montero,6862560,4,4,88,Diesel,SUV,11.56,7,Automatic,2780,1050
+Nissan,Micra Active,563133,3,4,41,Petrol,Hatchback,18.97,5,Manual,2450,251
+Nissan,Terrano,1235700,4,4,50,Diesel,SUV,20.45,5,Manual,2673,475
+Nissan,Sunny,877285,4,4,41,Diesel,Sedan,22.71,5,Manual,2600,490
+Nissan,Micra,662880,3,4,41,Petrol,Hatchback,19.34,5,Automatic,2450,251
+Nissan,Micra,812964,4,4,41,Diesel,Hatchback,23.08,5,Manual,2450,251
+Nissan,Kicks,955000,4,6,50,Petrol,SUV,14.23,5,Manual,2673,400
+Nissan,Gtr,21240272,6,4,74,Petrol,Coupe,9,4,Automatic,2780,249
+Porsche,Macan,8503000,6,4,65,Petrol,SUV,11,5,Automatic,2807,500
+Porsche,Cayenne,15806000,6,6,75,Hybrid,SUV,3.4,5,Automatic,2895,645
+Porsche,Cayenne Coupe,19763000,8,6,90,Petrol,SUV,15.3,5,Automatic,2895,598
+Porsche,911,18844000,6,6,64,Petrol,Convertible,9.1,4,Automatic,2450,132
+Porsche,Panamera,21263000,8,4,90,Petrol,Sedan,10.63,4,Automatic,2950,420
+Porsche,718,8595000,4,4,54,Petrol,Coupe,7.4,2,Automatic,2475,420
+Premier,Rio,506000,4,4,46,Petrol,SUV,16,5,Manual,2420,454
+Renault,Kwid,492190,3,6,28,Petrol,Hatchback,24.04,5,Automatic,2422,300
+Renault,Triber,495000,3,6,40,Petrol,MUV,20.5,7,Manual,2636,625
+Renault,Duster,799990,4,4,50,Petrol,SUV,13.87,5,Manual,2673,475
+Renault,Lodgy,863299,4,4,50,Diesel,MUV,21.04,8,Manual,2810,207
+Renault,Captur,949999,4,4,50,Petrol,SUV,13.86,5,Manual,2673,392
+Rolls-Royce, Ghost Series Ii,53247201,12,4,82.5,Petrol,Sedan,7.29,5,Automatic,3295,490
+Rolls-Royce, Wraith,50025840,12,4,83,Petrol,Coupe,10.2,4,Automatic,3112,470
+Rolls-Royce, Cullinan,69500000,12,6,45,Petrol,SUV,22.4-21.9  ,5,Automatic,3295,420
+Rolls-Royce, Dawn,59216193,12,4,80,Petrol,Convertible,7.9,4,Automatic,3112,460
+Rolls-Royce, Drophead Coupe,83755383,12,4,100,Petrol,Convertible,9.8,4,Automatic,3570,460
+Rolls-Royce, Phantom,75400000,12,4,100,Petrol,Sedan,23,5,Automatic,3820,460
+Rover Rover,Evoque Convertible,6952964,4,4,45,Petrol,Convertible,15.7,4,Automatic,2660,251
+Skoda,Monte Carlo,1425599,4,4,55,Diesel,Sedan,21.72,5,Automatic,2552,460
+Skoda,Superb,2599599,4,4,66,Petrol,Sedan,14.12,5,Manual,2841,625
+Skoda,Kodiaq Scout,3399000,4,6,63,Diesel,SUV,16.25,7,Automatic,2791,270
+Skoda,Superb Sportline,2899599,4,4,66,Petrol,Sedan,13.7,5,Automatic,2841,625
+Skoda,Kodiaq,3299599,4,4,66,Diesel,SUV,18.19,5,Automatic,2841,625
+Skoda,Rapid,1399599,4,4,55,Diesel,Sedan,21.72,5,Automatic,2552,460
+Skoda,Octavia,2079599,4,4,50,Diesel,Sedan,21,5,Manual,2688,590
+Tata,Nano Genx,236447,2,4,24,Petrol,Hatchback,23.6,4,Manual,2230,110
+Tata,Tiago,460000,3,6,35,Petrol,Hatchback,23,5,Manual,2400,420
+Tata,Bolt,787980,4,4,44,Diesel,Hatchback,22.95,5,Manual,2470,210
+Tata,Tigor Ev,960868,3,6,35,Electric,Sedan,11,5,Automatic,2450,255
+Tata,Hexa,1639374,4,4,60,Diesel,SUV,17.6,7,Manual,2850,128
+Tata,Altroz,529000,3,6,37,Petrol,Hatchback,18,5,Manual,2501,345
+Tata,Tigor,575000,3,6,35,Petrol,Sedan,23,5,Manual,2450,419
+Tata,Zest,702946,4,4,44,Diesel,Sedan,23,5,Manual,2470,390
+Tata,Nexon,1020000,4,6,44,Diesel,SUV,23.97,5,Manual,2498,350
+Tata,Safari Storme,1335158,4,4,63,Diesel,SUV,14,7,Manual,2650,981
+Tata,Nexon Ev,1499000,3,6,45,Electric,SUV,11,5,Automatic,2498,420
+Tata,Harrier,1345363,3,6,50,Diesel,SUV,16.7,5,Manual,2741,425
+Tata,Winger,1205000,4,6,60,Diesel,MUV,20.45,16,Manual,3488,420
+Tata,Tiago Nrg,639993,3,4,35,Petrol,Crossover,23.84,5,AMT,2400,242
+Toyota,Etios Liva,777700,4,4,45,Diesel,Hatchback,23.59,5,Manual,2460,251
+Toyota,Platinum Etios,803400,4,4,45,Petrol,Sedan,16.78,5,Manual,2550,592
+Toyota,Etios Cross,802000,4,4,45,Petrol,Hatchback,16.78,5,Manual,2460,251
+Toyota,Glanza,721900,4,6,37,Petrol,Hatchback,23.87,5,Manual,2520,339
+Toyota,Innova Crysta,1587000,4,6,55,Diesel,MUV,15.1,8,Manual,2750,420
+Toyota,Corolla Altis,2019000,4,4,55,Petrol,Sedan,16.7,5,Automatic,2700,470
+Toyota,Fortuner,3420000,4,4,80,Diesel,SUV,12.9,7,Automatic,2745,296
+Toyota,Camry,3788000,4,4,50,Hybrid,Sedan,23.2,5,Automatic,2825,420
+Toyota,Prius,4509000,4,4,43,Hybrid,Sedan,23.9,5,Automatic,2700,420
+Toyota,Land Cruiser,14699000,8,4,93,Diesel,SUV,9,7,Automatic,2850,621
+Toyota,Yaris,1317000,4,4,42,Petrol,Sedan,17.1,5,Automatic,2550,476
+Volkswagen,Polo,988500,4,4,45,Diesel,Hatchback,19.91,5,Manual,2469,250
+Volkswagen,Ameo,711500,4,4,45,Diesel,Sedan,21.66,5,Manual,2470,330
+Volkswagen,Vento,1197500,4,4,55,Petrol,Sedan,18.19,5,Automatic,2553,494
+Volkswagen,Passat,2899000,4,4,66,Diesel,Sedan,17.42,5,Automatic,2786,586
+Volkswagen,Tiguan,2814500,4,4,71,Diesel,SUV,17.06,5,Automatic,2677,615
+Volvo,V40,3191000,5,4,60,Diesel,Hatchback,16.81,5,Automatic,2647,324
+Volvo,V40 Cross Country,2962000,4,4,50,Petrol,Hatchback,16,5,Automatic,2646,324
+Volvo,S60,5602000,4,4,67,Petrol,Sedan,11,5,Automatic,2776,380
+Volvo,S60 Cross Country,4426500,5,4,67,Diesel,Sedan Crossover,19.6,4,Automatic,2774,380
+Volvo,V90 Cross Country,6531000,4,4,60,Diesel,SUV,17.2,5,Automatic,2941,530
+Volvo,Xc90,9665000,4,4,68,Hybrid,SUV,17.2,7,Automatic,2984,300
+Volvo,S90,5890000,4,4,45,Diesel,Sedan,14.7,5,Automatic,2941,420
+Volvo,Xc40,4390000,5,4,45,Diesel,SUV,11,5,Automatic,2702,420
